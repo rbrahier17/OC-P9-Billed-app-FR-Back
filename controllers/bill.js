@@ -182,7 +182,7 @@ const remove = async (req, res) => {
       });
     if (!bill) return res.status(401).send({ message: 'unauthorized action' });
     await Bill.destroy({ where: { id: bill.id } });
-    return res.send('Bill removed');
+     return res.status(200).send({ message: "Bill removed" });
   } catch (err) {
     return res.status(500).send({ message: err.message });
   }
