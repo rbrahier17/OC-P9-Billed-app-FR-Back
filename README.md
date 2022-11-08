@@ -6,12 +6,12 @@
 
 ### Cloner le projet:
 ```
-git clone https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Back.git
+git clone https://github.com/rbrahier17/OC-P9-Billed-app-FR-Back.git
 ```
 
 ### Acceder au repertoire du projet :
 ```
-cd Billed-app-FR-Back
+cd OC-P9-Billed-app-FR-Back
 ```
 
 ### Installer les dépendances du projet :
@@ -23,7 +23,7 @@ npm install
 ### Lancer l'API :
 
 ```
-npm run run:dev
+npm run dev
 ```
 
 ### Accéder à l'API :
@@ -52,12 +52,12 @@ mot de passe : employee
 
 ### Clone the projet:
 ```
-git clone https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Back.git
+git clone https://github.com/rbrahier17/OC-P9-Billed-app-FR-Back.git
 ```
 
 ### Go to the project directory :
 ```
-cd Billed-app-FR-Back
+cd OC-P9-Billed-app-FR-Back
 ```
 
 ### Install project dependancies :
